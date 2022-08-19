@@ -493,3 +493,4 @@ Received Import Request.
   path: Assets/RotatingCube.cs
   artifactKey: Guid(e589b7c713a0eb44080b49e0029788dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/RotatingCube.cs using Guid(e589b7c713a0eb44080b49e0029788dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e3f39d30a25bc659c11086c41fa841b') in 0.028851 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
